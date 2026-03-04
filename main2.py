@@ -1,0 +1,2 @@
+a = ('adsds')
+print(a)
